@@ -21,7 +21,7 @@
 ## 🚀 Languages and Frameworks:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,redux,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb" />
 </div>
 <br>
 
@@ -62,7 +62,7 @@
   <a href="mailto:yassinechmarekh88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://yassine-chmarekh.vercel.app/">
+        <a href="https://www.chmarekh.com">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=white" />
   </a>
 </div>
